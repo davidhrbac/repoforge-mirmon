@@ -1,0 +1,10 @@
+http://apt.sw.be/ 1335059482 ok 1335090326 ssssssssssssss 1335037686-sbs 1335090326
+http://fr2.rpmfind.net/linux/dag/ 1334973019 ok 1335090326 ssssssssssssss 1335037686-bbb 1335090326
+http://ftp-stud.fht-esslingen.de/dag/ 1334973019 ok 1335090326 ssssssssssssss 1335037686-bbb 1335090326
+http://mir01.syntis.net/repoforge/ 1334973019 ok 1335090326 ssssssssssssss 1335017443-bb 1335090326
+http://mirror.awanti.com/rpmforge/dag/ undef no_time undef ffffffffffffff 1335042360-zzz 1335090326
+http://mirror.de.leaseweb.net/dag/ 1334973019 ok 1335090326 ssssssssssssss 1335016576-bb 1335090326
+http://mirror.hmdc.harvard.edu/rpmforge/ undef no_time undef ffffffffffffff 1335016801-zz 1335090326
+http://mirror.nl.leaseweb.net/dag/ 1334973019 ok 1335090326 ssssssssssssss 1335016576-bb 1335090326
+http://mirror.us.leaseweb.net/dag/ 1334973019 ok 1335090326 ssssssssssssss 1335016576-bb 1335090326
+http://mirrors.ircam.fr/pub/dag/ 1334886639 ok 1335090326 ssssssssssssss 1335039588-bbf 1335090326
