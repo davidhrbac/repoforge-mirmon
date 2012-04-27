@@ -63,10 +63,10 @@ for line in lines:
   line = string.strip(line)
   splitline = string.split(line)
 
-  mcountry = splitline[1]
+  mcountry = splitline[0]
 
   p = re.compile(r'^(f|ht)tp://(?P<hn>[^/]*)/?.*$')
-  m = p.search(splitline[2])
+  m = p.search(splitline[1])
 
   mname = m.group('hn')
 
@@ -83,7 +83,9 @@ for line in lines:
       print "Got IP address: " + mip
 
     gi = GeoIP.new(GeoIP.GEOIP_STANDARD)
-    region = string.strip(string.lower(gi.country_code_by_addr(mip)))
+
+    #lower
+    region = (gi.country_code_by_addr(mip)).lower().strip()
 
     if region == 'gb':
       region = 'uk'
