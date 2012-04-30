@@ -1,4 +1,3 @@
-ie http://apt.sw.be/ david@hrbac.cz
 de http://ftp-stud.fht-esslingen.de/dag/ david@hrbac.cz
 fr http://fr2.rpmfind.net/linux/dag/ david@hrbac.cz
 fr http://mirrors.ircam.fr/pub/dag/ arnaud.gomes@ircam.fr
@@ -20,7 +19,7 @@ de http://mirror.atrpms.net/dag/ GoogleBot
 uk http://www.mirrorservice.org/sites/apt.sw.be/ GoogleBot
 us http://mirrors.eecs.wsu.edu/dag/ GoogleBot
 us http://mirror.lug.udel.edu/pub/dag/ GoogleBot
-ie http://ftp2.ie.postgresql.org/mirrors/ftp.freshrpms.net/pub/dag/ GoogleBot
+ie http://ftp.heanet.ie/mirrors/ftp.freshrpms.net/pub/dag/ GoogleBot
 jp http://mirror.fairway.ne.jp/dag/ GoogleBot
 us http://mirror.teljet.net/dag/ GoogleBot
 de http://ftp.tu-chemnitz.de/pub/linux/dag/ GoogleBot
