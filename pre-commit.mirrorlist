@@ -1,0 +1,9 @@
+#git diff --name-only
+# --diff-filter=ACM
+for ver in 3 4 5 6
+do
+  sed 's/$/redhat\/el'$ver'\/en\/\$ARCH\/rpmforge/' mirrorlist.raw > el$ver/mirrors-repoforge
+  sed 's/$/redhat\/el'$ver'\/en\/\$ARCH\/extras/' mirrorlist.raw > el$ver/mirrors-repoforge-extras
+  sed 's/$/redhat\/el'$ver'\/en\/\$ARCH\/testing/' mirrorlist.raw > el$ver/mirrors-repoforge-testing
+done
+git add ./el*/mirrors-repoforge{,-extras,-testing}
