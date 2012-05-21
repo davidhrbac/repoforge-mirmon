@@ -1,4 +1,4 @@
-de http://mirror1.hs-esslingen.de/dag/ adrian@hs-esslingen.de
+de http://mirror1.hs-esslingen.de/repoforge/ adrian@hs-esslingen.de
 fr http://fr2.rpmfind.net/linux/dag/ david@hrbac.cz
 fr http://mirrors.ircam.fr/pub/dag/ arnaud.gomes@ircam.fr
 ru http://mirror.awanti.com/rpmforge/dag/ mirror@awanti.com
@@ -32,3 +32,10 @@ cz http://repository.vsb.cz/mirrors/repoforge/ david.hrbac@vsb.cz
 vn http://mirror-fpt-telecom.fpt.net/repoforge/ lokiheero@gmail.com
 cz http://merlin.fit.vutbr.cz/mirrors/repoforge/ linux@fit.vutbr.cz
 cz http://ftp.fi.muni.cz/pub/linux/repoforge/ ftp-admin@fi.muni.cz
+be http://be.mirror.eurid.eu/rpmforge/ Dag!?!
+us http://nl.mirror.eurid.eu/rpmforge/ Dag!?!
+za http://ftp.is.co.za/mirror/ftp.rpmforge.net/ Dag!?!
+nl http://ftp.sara.nl/pub/dag/ Dag!?!Partial
+cl http://mirror.netglobalis.net/pub/dag/ Dag!?!Partial
+ru http://linux4u.jinr.ru/pub/RedHat/dag/ Dag!?!
+us http://mirror.team-cymru.org/rpmforge/ Dag!?!
