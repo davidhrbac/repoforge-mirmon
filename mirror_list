@@ -12,9 +12,9 @@ ca http://mirror.cpsc.ucalgary.ca/mirror/dag/ GoogleBot
 ie http://thammuz.tchpc.tcd.ie/mirrors/ftp.freshrpms.net/pub/dag/ GoogleBot
 cz http://sunsite.mff.cuni.cz/MIRRORS/ftp.freshrpms.net/pub/freshrpms/pub/dag/ GoogleBot:webmaster@sunsite.mff.cuni.cz
 jp http://ftp.riken.jp/pub/Linux/dag/ GoogleBot
-fr http://mirror.ate.info/dag/ GoogleBot
+fr http://mirror.ate.info/dag/ talkedto:GoogleBot:mrousseau@ate.info
 nl http://archive.cs.uu.nl/mirror/dag.wieers/ GoogleBot
-us http://mirror.webnx.com/dag/ GoogleBot:dariop@webnx.com
+us http://mirror.webnx.com/dag/ talkedto:GoogleBot:dariop@webnx.com
 de http://mirror.atrpms.net/repoforge/ talkedto:axel.thimm@atrpms.net
 uk http://www.mirrorservice.org/sites/apt.sw.be/ GoogleBot
 us http://repoforge.eecs.wsu.edu/ talkedto:kusznir@eecs.wsu.edu
