@@ -12,7 +12,7 @@ import re
 import socket
 import time
 
-verbose = 0
+verbose = False
 timeout = 10
 
 error = __name__ + '.error'
