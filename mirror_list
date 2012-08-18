@@ -43,3 +43,4 @@ id http://repoforge.repo.unpas.ac.id/ talkedto:root@unpas.ac.id
 br http://repoforge.xpg.com.br/ talkedto:hostmaster@xpg.com.br
 ua http://repoforge.vc.ukrtel.net/ talkedto:mirror-admin@vc.ukrtel.net
 jp http://ftp.riken.jp/Linux/repoforge/ talkedto:ichihara@riken.jp
+us http://mirrors.cicku.me/repoforge/ cickumqt-ihatespam@gmail.com

@@ -33,7 +33,7 @@ import re
 import socket
 import GeoIP
 
-verbose = 0
+verbose = 1
 timeout = 10
 
 error = __name__ + '.error'
