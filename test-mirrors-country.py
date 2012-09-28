@@ -33,7 +33,7 @@ import re
 import socket
 import GeoIP
 
-verbose = 1
+verbose = 0
 timeout = 10
 
 error = __name__ + '.error'
@@ -85,7 +85,10 @@ for line in lines:
     gi = GeoIP.new(GeoIP.GEOIP_STANDARD)
 
     #lower
-    region = (gi.country_code_by_addr(mip)).lower().strip()
+    try:
+      region = (gi.country_code_by_addr(mip)).lower().strip()
+    except:
+      region = 'N/A'
 
     if region == 'gb':
       region = 'uk'
