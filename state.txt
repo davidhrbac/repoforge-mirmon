@@ -33,6 +33,7 @@ http://mirror.us.leaseweb.net/dag/ 1348847101 ok 1348862401 ssssssssssssss 13488
 http://mirror.webnx.com/dag/ 1348725002 ok 1348862401 ssssssssssssss 1348844401-fsbsbffssbssbb 1348862401
 http://mirror1.hs-esslingen.de/repoforge/ 1348861501 ok 1348862401 ssssssssssssss 1348862330-ssssssssssssss 1348862401
 http://mirrors.cicku.me/repoforge/ 1348858801 ok 1348862401 ssssssssssssss 1348788907-ssssssssssssss 1348862401
+http://mirrors.digipower.vn/repoforge/ 1348852501 ok 1348862689 s 1348862689-s 1348862689
 http://mirrors.ircam.fr/pub/dag/ 1348825501 ok 1348862401 ssssssssssssss 1348777188-ssssssssssssss 1348862401
 http://nl.mirror.eurid.eu/rpmforge/ 1348857901 ok 1348862401 ssssssssssssss 1348776434-ssssssssssssss 1348862401
 http://repoforge.eecs.wsu.edu/ 1348858801 ok 1348862401 ssssssssssssss 1348859088-ssssssssssssss 1348862401
