@@ -1,2 +1,2 @@
 #*/05 * * * * root /bin/date +\%s > /var/www/html/TIME
-*/15 * * * * root /usr/bin/mirmon -get all && /var/www/mirmon/get-mirrors.py /var/www/mirmon/state.txt > /var/www/mirrorlist/mirrorlist.raw && cd /var/www/mirrorlist/ && git diff --quiet --exit-code || git commit -a -m "Mirmon export on `date -R`" && git push --quiet
+*/15 * * * * root /usr/bin/mirmon -get all && /var/www/mirmon/get-mirrors.py /var/www/mirmon/state.txt > /var/www/mirrorlist/mirrorlist.raw && cd /var/www/mirrorlist/ && git diff --quiet --exit-code || git commit --quiet -a -m "Mirmon export on `date -R`" && git push --quiet
