@@ -55,6 +55,6 @@ kr http://ftp.neowiz.com/repoforge/ talkedto:ftpadm[at]neowiz.com
 ru http://repoforge.softded.ru/ talkedto:softded[at]gmail.com
 jp http://ftp.kddilabs.jp/Linux/RPMS/repoforge/ talkedto:admin[at]ftp.ne.jp
 gr http://ftp.cc.uoc.gr/mirrors/repoforge/ talkedto:mirror[at]cc.uoc.gr
-de http://mirror.jgotteswinter.com/rpmforge talkedto:squadra[at]gmail.com
-us http://mirror.chpc.utah.edu/pub/repoforge talkedto:david.richardson[at]utah.edu
+de http://mirror.jgotteswinter.com/rpmforge/ talkedto:squadra[at]gmail.com
+us http://mirror.chpc.utah.edu/pub/repoforge/ talkedto:david.richardson[at]utah.edu
 nl http://ftp.nluug.nl/os/Linux/distr/repoforge/ talkedto:mike[at]hulsman.net
