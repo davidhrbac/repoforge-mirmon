@@ -41,7 +41,7 @@ us http://mirror.team-cymru.org/rpmforge/ Dag!?!
 cl http://repoforge.gtdinternet.com/ talkedto:mlopez[at]gtdinternet.com
 id http://repoforge.repo.unpas.ac.id/ talkedto:root[at]unpas.ac.id
 br http://repoforge.xpg.com.br/ talkedto:hostmaster[at]xpg.com.br
-ua http://repoforge.vc.ukrtel.net/ talkedto:mirror-admin[at]vc.ukrtel.net
+ua http://repoforge.ip-connect.vn.ua/ talkedto:mirrors[at]ip-connect.vn.ua
 jp http://ftp.riken.jp/Linux/repoforge/ talkedto:ichihara[at]riken.jp
 us http://mirrors.cicku.me/repoforge/ cickumqt-ihatespam[at]gmail.com
 id http://kartolo.sby.datautama.net.id/repoforge/ talkedto:mirrors-admin[at]sby.datautama.net.id
@@ -58,3 +58,5 @@ gr http://ftp.cc.uoc.gr/mirrors/repoforge/ talkedto:mirror[at]cc.uoc.gr
 de http://mirror.jgotteswinter.com/rpmforge/ talkedto:squadra[at]gmail.com
 us http://mirror.chpc.utah.edu/pub/repoforge/ talkedto:david.richardson[at]utah.edu
 nl http://ftp.nluug.nl/os/Linux/distr/repoforge/ talkedto:mike[at]hulsman.net
+us http://mirror.nexcess.net/repoforge/ talkedto:mirroradmin[at]nexcess.net or mmckinst[at]nexcess.net
+id http://mirror.unej.ac.id/pub/apt.sw.be/ talkedto:it.staff[at]unej.ac.id, udienz[at]rad.net.id
